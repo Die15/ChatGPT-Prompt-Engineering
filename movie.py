@@ -1,6 +1,6 @@
 import openai
 # Configura tu clave de API de OpenAI
-openai.api_key = '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'
+openai.api_key = 'TU_CLAVE_DE_API'  # Reemplaza con una API válida
 
 
 def generar_resena_pelicula(nombre_pelicula):
